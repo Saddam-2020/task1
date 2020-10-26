@@ -1,0 +1,55 @@
+[21-Aug-2020 18:22:04 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'syednoufil_vibes'@'localhost' to database 'syednoufil_yesdoct' in /home/syednoufil/public_html/test/yesdoct/hms/include/config.php on line 6
+[21-Aug-2020 18:22:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 39
+[21-Aug-2020 18:22:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/syednoufil/public_html/test/yesdoct/services.php on line 40
+[21-Aug-2020 18:22:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 115
+[21-Aug-2020 18:22:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/syednoufil/public_html/test/yesdoct/services.php on line 116
+[21-Aug-2020 18:23:54 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'syednoufil_vibes'@'localhost' to database 'syednoufil_yesdoct' in /home/syednoufil/public_html/test/yesdoct/hms/include/config.php on line 6
+[21-Aug-2020 18:23:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 39
+[21-Aug-2020 18:23:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/syednoufil/public_html/test/yesdoct/services.php on line 40
+[21-Aug-2020 18:23:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 115
+[21-Aug-2020 18:23:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/syednoufil/public_html/test/yesdoct/services.php on line 116
+[21-Aug-2020 18:25:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 40
+[21-Aug-2020 18:25:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/syednoufil/public_html/test/yesdoct/services.php on line 116
+[03-Sep-2020 08:14:12 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 241
+[03-Sep-2020 08:14:12 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 245
+[03-Sep-2020 08:15:29 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 241
+[03-Sep-2020 08:15:29 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 245
+[03-Sep-2020 08:15:44 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 241
+[03-Sep-2020 08:15:44 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 245
+[03-Sep-2020 08:29:18 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 241
+[03-Sep-2020 08:29:18 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 245
+[03-Sep-2020 08:53:14 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 08:53:14 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 08:53:40 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 08:53:40 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 08:54:58 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 08:54:58 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 09:00:59 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 09:00:59 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 09:29:40 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 09:29:40 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 09:45:21 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 09:45:21 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 09:57:29 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 09:57:29 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[03-Sep-2020 10:14:55 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 243
+[03-Sep-2020 10:14:55 America/New_York] PHP Notice:  Undefined variable: row in /home/syednoufil/public_html/test/yesdoct/index.php on line 247
+[05-Sep-2020 06:08:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:08:14 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:08:20 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:08:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:08:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:09:15 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:10:15 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:14:27 America/New_York] PHP Notice:  Undefined index: packageid in /home/syednoufil/public_html/test/yesdoct/package-subscription.php on line 262
+[05-Sep-2020 06:36:18 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:36:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:37:20 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:37:27 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:51:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:52:00 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:52:46 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:53:37 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:53:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:53:59 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
+[05-Sep-2020 06:54:22 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syednoufil/public_html/test/yesdoct/news.php on line 414
